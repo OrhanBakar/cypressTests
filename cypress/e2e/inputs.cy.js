@@ -1,5 +1,3 @@
-
-
 describe('Input Forms Tests', () => {
   beforeEach('Navigate to registration page', () => {
     cy.clearCookies();

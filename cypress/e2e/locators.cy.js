@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+/// <reference types="cypress" />;
 
 describe('Find or Get Elements by Using Different Locators', () => {
   beforeEach(() => {
